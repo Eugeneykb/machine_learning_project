@@ -1,4 +1,5 @@
-#Eugene
+#Eugene Yakubu
+#Machine Learning Project
 # Importing necessary libraries for data processing, image manipulation, and machine learning
 import numpy as np
 import pandas as pd
